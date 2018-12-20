@@ -10,5 +10,6 @@
 <h3> Update from Abhi </h3>
 <h3> ¡Hola! from Adam </h3>
 <h3> Guten tag! von Lucas </h3>
-<h3>"Yeah, Mr. White!  Yeah, science!"</3>
-<b>Casey was here!</b>
+<h3>"Yeah, Mr. White!  Yeah, science!"</h3>
+<h3>Casey was here!</h3>
+<h3>RUNNING WITH DOCKER IMAGE</h3>
